@@ -1,0 +1,19 @@
+{
+  "name": "cypress-desafio-intermediario",
+  "version": "1.0.0",
+  "description": "desafio cypress intermediario",
+  "main": "index.js",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "cypress": "^12.17.3"
+  },
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "npx cypress open"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Michel Silva",
+  "license": "ISC"
+}
